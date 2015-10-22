@@ -5,7 +5,7 @@
 */
 
 skel.init({
-	prefix: '/assets/css/style',
+	prefix: '/Linear-Jekyll-Theme/assets/css/style',
 	resetCSS: true,
 	boxModel: 'border',
 	grid: {
