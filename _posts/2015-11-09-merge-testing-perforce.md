@@ -1,6 +1,6 @@
 ---
 title: Arbitrary merge testing with Perforce
-featured: images/pic03.jpg
+featured: images/no_image.png
 layout: post
 ---
 
